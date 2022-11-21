@@ -1,9 +1,5 @@
-{
+{	
+	"directory_name:"indipaisa"
 	"project_name":"Reconsiliation",
-	"author":"author",
-	"version":"0.1",
-	"description":"description",
-	"folder_name":"folder1",
-	"file_name":"first_file",
-	"name":"karthik"
+	"author":"author"
 }
